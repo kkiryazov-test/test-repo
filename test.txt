@@ -2,3 +2,5 @@ Added a test text.
 Added a sedfgcond lifdgfdgne2.dfsfsdf
 Added last linedfgdfg
 Added last line
+
+Add new method
