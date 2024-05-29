@@ -1,1 +1,2 @@
 Added a test text.
+Added a second line.
